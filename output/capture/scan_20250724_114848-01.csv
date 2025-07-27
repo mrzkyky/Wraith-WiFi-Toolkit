@@ -1,0 +1,21 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+54:76:B2:CE:A3:E7, 2025-07-24 11:48:49, 2025-07-24 11:52:48,  1, 130, WPA2, CCMP TKIP, PSK, -82,      288,        0,   0.  0.  0.  0,  11, BodinFamily, 
+08:40:F3:58:81:29, 2025-07-24 11:48:49, 2025-07-24 11:52:43,  7, 270, WPA2, CCMP, PSK, -93,      118,        0,   0.  0.  0.  0,   8, HckTools, 
+50:5B:1D:F4:BC:C0, 2025-07-24 11:48:49, 2025-07-24 11:52:48,  4, 130, WPA2, CCMP TKIP, PSK, -48,      867,     8314,   0.  0.  0.  0,   4, Ucok, 
+1C:61:D2:76:72:08, 2025-07-24 11:49:18, 2025-07-24 11:52:48,  1, 130, WPA2, CCMP, PSK, -93,       25,        0,   0.  0.  0.  0,   8, MARZ'ELS, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+CA:84:D5:BE:68:DB, 2025-07-24 11:48:50, 2025-07-24 11:52:47, -86,     3808, 50:5B:1D:F4:BC:C0,
+8E:D2:FF:0F:2B:CA, 2025-07-24 11:48:50, 2025-07-24 11:52:47, -72,     1043, 50:5B:1D:F4:BC:C0,
+C4:23:60:8B:20:EF, 2025-07-24 11:48:52, 2025-07-24 11:52:16, -27,      409, 50:5B:1D:F4:BC:C0,
+CE:BE:92:2F:27:38, 2025-07-24 11:48:55, 2025-07-24 11:52:35, -26,      107, 50:5B:1D:F4:BC:C0,
+FE:83:2C:30:DA:80, 2025-07-24 11:48:57, 2025-07-24 11:52:48, -65,     3322, 50:5B:1D:F4:BC:C0,
+92:37:6C:64:12:DF, 2025-07-24 11:49:28, 2025-07-24 11:49:28, -82,        2, (not associated) ,
+4A:E2:9E:4F:41:43, 2025-07-24 11:51:15, 2025-07-24 11:51:15, -84,        8, (not associated) ,TRIPLEDE,Yumna_NET,dimas,hdjjjjuhjciuxu
+BA:FF:16:AC:32:AE, 2025-07-24 11:51:17, 2025-07-24 11:51:17, -80,        1, (not associated) ,
+E6:D8:84:1E:10:77, 2025-07-24 11:51:35, 2025-07-24 11:51:35, -94,       20, (not associated) ,TRIPLEDE,Yumna_NET,hdjjjjuhjciuxu,dimas
+1C:61:D2:76:72:08, 2025-07-24 11:51:43, 2025-07-24 11:52:43, -94,        5, (not associated) ,
+D2:51:62:7C:6A:70, 2025-07-24 11:51:55, 2025-07-24 11:51:55, -94,       45, (not associated) ,TRIPLEDE,Yumna_NET,dimas,hdjjjjuhjciuxu
+0A:03:92:E6:66:B5, 2025-07-24 11:52:15, 2025-07-24 11:52:15, -84,       14, (not associated) ,TRIPLEDE,Yumna_NET,dimas,hdjjjjuhjciuxu
+

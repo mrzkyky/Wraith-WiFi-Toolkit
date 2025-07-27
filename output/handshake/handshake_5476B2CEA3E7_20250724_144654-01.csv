@@ -1,0 +1,9 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+54:76:B2:CE:A3:E7, 2025-07-24 14:46:55, 2025-07-24 14:49:55,  1, 130, WPA2, CCMP TKIP, PSK, -81,     1345,     1584,   0.  0.  0.  0,  11, BodinFamily, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+56:8A:15:C1:BB:84, 2025-07-24 14:46:55, 2025-07-24 14:49:47,   0,     2639, 54:76:B2:CE:A3:E7,
+F6:A2:5F:FF:F9:64, 2025-07-24 14:46:55, 2025-07-24 14:49:54, -86,      313, 54:76:B2:CE:A3:E7,
+14:DD:9C:FF:19:61, 2025-07-24 14:47:14, 2025-07-24 14:49:26, -94,       23, 54:76:B2:CE:A3:E7,
+

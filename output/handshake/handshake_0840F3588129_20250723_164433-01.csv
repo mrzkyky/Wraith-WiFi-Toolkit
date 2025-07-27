@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+08:40:F3:58:81:29, 2025-07-23 16:44:49, 2025-07-23 16:47:58,  1, 130, WPA2, CCMP, PSK, -93,       13,        0,   0.  0.  0.  0,   8, HckTools, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+74:F2:FA:D8:DC:53, 2025-07-23 16:47:35, 2025-07-23 16:47:58, -50,       67, 08:40:F3:58:81:29,
+

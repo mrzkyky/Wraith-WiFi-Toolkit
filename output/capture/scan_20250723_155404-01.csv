@@ -1,0 +1,11 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+08:40:F3:58:81:29, 2025-07-23 15:54:24, 2025-07-23 15:54:26,  1, 130, WPA2, CCMP, PSK, -86,        6,        0,   0.  0.  0.  0,   8, HckTools, 
+54:76:B2:CE:A3:E7, 2025-07-23 15:54:24, 2025-07-23 15:54:26,  1, 130, WPA2, CCMP TKIP, PSK, -83,        8,        0,   0.  0.  0.  0,  11, BodinFamily, 
+50:5B:1D:F4:BC:C0, 2025-07-23 15:54:25, 2025-07-23 15:54:30,  4, 130, WPA2, CCMP TKIP, PSK, -46,       19,        0,   0.  0.  0.  0,   4, Ucok, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+14:DD:9C:FF:19:61, 2025-07-23 15:54:21, 2025-07-23 15:54:21, -94,        2, (not associated) ,1kilo 400,1kilo 4000
+CE:BE:92:2F:27:38, 2025-07-23 15:54:25, 2025-07-23 15:54:28, -26,        2, 50:5B:1D:F4:BC:C0,
+74:F2:FA:D8:DC:53, 2025-07-23 15:54:30, 2025-07-23 15:54:30, -94,        1, 50:5B:1D:F4:BC:C0,
+
